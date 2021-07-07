@@ -28,7 +28,7 @@ while ulang == 'y':
     nama   = input('Masukkan Nama                 = ')
     gol    = input('Golongan Anda                  = ')
     gender = input('Jenis Kelamin(L/P)             = ')
-    sts    = input('Status Kawin(Sudah/Belum)      = ')
+    sts    = input('Status Kawin(S/B)      = ')
     print()
      #Hitung gaji
     i = 0
